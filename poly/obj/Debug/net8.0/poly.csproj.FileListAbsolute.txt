@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\poly\bin\Debug\net8.0\poly.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\poly\bin\Debug\net8.0\poly.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\poly\bin\Debug\net8.0\poly.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\poly\bin\Debug\net8.0\poly.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\poly\bin\Debug\net8.0\poly.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\poly\obj\Debug\net8.0\poly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\poly\obj\Debug\net8.0\poly.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\poly\obj\Debug\net8.0\poly.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\poly\obj\Debug\net8.0\poly.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\poly\obj\Debug\net8.0\poly.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\poly\obj\Debug\net8.0\refint\poly.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\poly\obj\Debug\net8.0\poly.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\poly\obj\Debug\net8.0\poly.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\poly\obj\Debug\net8.0\ref\poly.dll

@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\Meth\bin\Debug\net8.0\Meth.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\Meth\bin\Debug\net8.0\Meth.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\Meth\bin\Debug\net8.0\Meth.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\Meth\bin\Debug\net8.0\Meth.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Meth\bin\Debug\net8.0\Meth.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\Meth\obj\Debug\net8.0\Meth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\Meth\obj\Debug\net8.0\Meth.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Meth\obj\Debug\net8.0\Meth.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\Meth\obj\Debug\net8.0\Meth.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Meth\obj\Debug\net8.0\Meth.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Meth\obj\Debug\net8.0\refint\Meth.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Meth\obj\Debug\net8.0\Meth.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\Meth\obj\Debug\net8.0\Meth.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Meth\obj\Debug\net8.0\ref\Meth.dll

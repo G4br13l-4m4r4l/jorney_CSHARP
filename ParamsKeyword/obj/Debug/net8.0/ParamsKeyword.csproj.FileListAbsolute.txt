@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\ParamsKeyword\bin\Debug\net8.0\ParamsKeyword.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\ParamsKeyword\bin\Debug\net8.0\ParamsKeyword.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\ParamsKeyword\bin\Debug\net8.0\ParamsKeyword.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\ParamsKeyword\bin\Debug\net8.0\ParamsKeyword.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\ParamsKeyword\bin\Debug\net8.0\ParamsKeyword.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\ParamsKeyword\obj\Debug\net8.0\refint\ParamsKeyword.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\ParamsKeyword\obj\Debug\net8.0\ParamsKeyword.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\ParamsKeyword\obj\Debug\net8.0\ref\ParamsKeyword.dll

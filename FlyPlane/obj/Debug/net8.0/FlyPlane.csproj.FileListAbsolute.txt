@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\FlyPlane\bin\Debug\net8.0\FlyPlane.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\FlyPlane\bin\Debug\net8.0\FlyPlane.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\FlyPlane\bin\Debug\net8.0\FlyPlane.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\FlyPlane\bin\Debug\net8.0\FlyPlane.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\FlyPlane\bin\Debug\net8.0\FlyPlane.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\FlyPlane\obj\Debug\net8.0\FlyPlane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\FlyPlane\obj\Debug\net8.0\FlyPlane.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\FlyPlane\obj\Debug\net8.0\FlyPlane.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\FlyPlane\obj\Debug\net8.0\FlyPlane.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\FlyPlane\obj\Debug\net8.0\FlyPlane.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\FlyPlane\obj\Debug\net8.0\refint\FlyPlane.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\FlyPlane\obj\Debug\net8.0\FlyPlane.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\FlyPlane\obj\Debug\net8.0\FlyPlane.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\FlyPlane\obj\Debug\net8.0\ref\FlyPlane.dll

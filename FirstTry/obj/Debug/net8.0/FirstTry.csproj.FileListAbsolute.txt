@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\FirstTry\bin\Debug\net8.0\FirstTry.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\FirstTry\bin\Debug\net8.0\FirstTry.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\FirstTry\bin\Debug\net8.0\FirstTry.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\FirstTry\bin\Debug\net8.0\FirstTry.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\FirstTry\bin\Debug\net8.0\FirstTry.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\FirstTry\obj\Debug\net8.0\FirstTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\FirstTry\obj\Debug\net8.0\FirstTry.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\FirstTry\obj\Debug\net8.0\FirstTry.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\FirstTry\obj\Debug\net8.0\FirstTry.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\FirstTry\obj\Debug\net8.0\FirstTry.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\FirstTry\obj\Debug\net8.0\refint\FirstTry.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\FirstTry\obj\Debug\net8.0\FirstTry.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\FirstTry\obj\Debug\net8.0\FirstTry.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\FirstTry\obj\Debug\net8.0\ref\FirstTry.dll

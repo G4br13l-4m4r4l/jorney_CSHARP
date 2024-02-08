@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\StatementIf\bin\Debug\net8.0\StatementIf.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\StatementIf\bin\Debug\net8.0\StatementIf.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\StatementIf\bin\Debug\net8.0\StatementIf.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\StatementIf\bin\Debug\net8.0\StatementIf.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\StatementIf\bin\Debug\net8.0\StatementIf.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\StatementIf\obj\Debug\net8.0\StatementIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\StatementIf\obj\Debug\net8.0\StatementIf.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\StatementIf\obj\Debug\net8.0\StatementIf.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\StatementIf\obj\Debug\net8.0\StatementIf.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\StatementIf\obj\Debug\net8.0\StatementIf.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\StatementIf\obj\Debug\net8.0\refint\StatementIf.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\StatementIf\obj\Debug\net8.0\StatementIf.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\StatementIf\obj\Debug\net8.0\StatementIf.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\StatementIf\obj\Debug\net8.0\ref\StatementIf.dll

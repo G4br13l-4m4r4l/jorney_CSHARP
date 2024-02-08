@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\StateSwitch\bin\Debug\net8.0\StateSwitch.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\StateSwitch\bin\Debug\net8.0\StateSwitch.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\StateSwitch\bin\Debug\net8.0\StateSwitch.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\StateSwitch\bin\Debug\net8.0\StateSwitch.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\StateSwitch\bin\Debug\net8.0\StateSwitch.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\StateSwitch\obj\Debug\net8.0\StateSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\StateSwitch\obj\Debug\net8.0\StateSwitch.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\StateSwitch\obj\Debug\net8.0\StateSwitch.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\StateSwitch\obj\Debug\net8.0\StateSwitch.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\StateSwitch\obj\Debug\net8.0\StateSwitch.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\StateSwitch\obj\Debug\net8.0\refint\StateSwitch.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\StateSwitch\obj\Debug\net8.0\StateSwitch.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\StateSwitch\obj\Debug\net8.0\StateSwitch.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\StateSwitch\obj\Debug\net8.0\ref\StateSwitch.dll

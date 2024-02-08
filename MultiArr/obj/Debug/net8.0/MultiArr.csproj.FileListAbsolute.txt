@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\MultiArr\bin\Debug\net8.0\MultiArr.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\MultiArr\bin\Debug\net8.0\MultiArr.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\MultiArr\bin\Debug\net8.0\MultiArr.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\MultiArr\bin\Debug\net8.0\MultiArr.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\MultiArr\bin\Debug\net8.0\MultiArr.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\MultiArr\obj\Debug\net8.0\MultiArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\MultiArr\obj\Debug\net8.0\MultiArr.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\MultiArr\obj\Debug\net8.0\MultiArr.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\MultiArr\obj\Debug\net8.0\MultiArr.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\MultiArr\obj\Debug\net8.0\MultiArr.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\MultiArr\obj\Debug\net8.0\refint\MultiArr.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\MultiArr\obj\Debug\net8.0\MultiArr.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\MultiArr\obj\Debug\net8.0\MultiArr.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\MultiArr\obj\Debug\net8.0\ref\MultiArr.dll

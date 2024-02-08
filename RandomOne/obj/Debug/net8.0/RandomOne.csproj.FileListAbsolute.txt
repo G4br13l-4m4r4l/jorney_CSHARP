@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\RandomOne\bin\Debug\net8.0\RandomOne.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\RandomOne\bin\Debug\net8.0\RandomOne.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\RandomOne\bin\Debug\net8.0\RandomOne.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\RandomOne\bin\Debug\net8.0\RandomOne.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\RandomOne\bin\Debug\net8.0\RandomOne.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\RandomOne\obj\Debug\net8.0\RandomOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\RandomOne\obj\Debug\net8.0\RandomOne.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\RandomOne\obj\Debug\net8.0\RandomOne.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\RandomOne\obj\Debug\net8.0\RandomOne.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\RandomOne\obj\Debug\net8.0\RandomOne.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\RandomOne\obj\Debug\net8.0\refint\RandomOne.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\RandomOne\obj\Debug\net8.0\RandomOne.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\RandomOne\obj\Debug\net8.0\RandomOne.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\RandomOne\obj\Debug\net8.0\ref\RandomOne.dll

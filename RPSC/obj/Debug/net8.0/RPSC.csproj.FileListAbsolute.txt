@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\RPSC\bin\Debug\net8.0\RPSC.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\RPSC\bin\Debug\net8.0\RPSC.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\RPSC\bin\Debug\net8.0\RPSC.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\RPSC\bin\Debug\net8.0\RPSC.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\RPSC\bin\Debug\net8.0\RPSC.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\RPSC\obj\Debug\net8.0\RPSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\RPSC\obj\Debug\net8.0\RPSC.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\RPSC\obj\Debug\net8.0\RPSC.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\RPSC\obj\Debug\net8.0\RPSC.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\RPSC\obj\Debug\net8.0\RPSC.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\RPSC\obj\Debug\net8.0\refint\RPSC.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\RPSC\obj\Debug\net8.0\RPSC.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\RPSC\obj\Debug\net8.0\RPSC.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\RPSC\obj\Debug\net8.0\ref\RPSC.dll

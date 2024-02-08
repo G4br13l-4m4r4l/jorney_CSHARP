@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\ExceptionsTernario\bin\Debug\net8.0\ExceptionsTernario.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\ExceptionsTernario\bin\Debug\net8.0\ExceptionsTernario.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\ExceptionsTernario\bin\Debug\net8.0\ExceptionsTernario.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\ExceptionsTernario\bin\Debug\net8.0\ExceptionsTernario.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\ExceptionsTernario\bin\Debug\net8.0\ExceptionsTernario.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\ExceptionsTernario\obj\Debug\net8.0\ExceptionsTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\ExceptionsTernario\obj\Debug\net8.0\ExceptionsTernario.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\ExceptionsTernario\obj\Debug\net8.0\ExceptionsTernario.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\ExceptionsTernario\obj\Debug\net8.0\ExceptionsTernario.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\ExceptionsTernario\obj\Debug\net8.0\ExceptionsTernario.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\ExceptionsTernario\obj\Debug\net8.0\refint\ExceptionsTernario.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\ExceptionsTernario\obj\Debug\net8.0\ExceptionsTernario.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\ExceptionsTernario\obj\Debug\net8.0\ExceptionsTernario.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\ExceptionsTernario\obj\Debug\net8.0\ref\ExceptionsTernario.dll

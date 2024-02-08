@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\OOP\bin\Debug\net8.0\OOP.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\OOP\bin\Debug\net8.0\OOP.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\OOP\bin\Debug\net8.0\OOP.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\OOP\bin\Debug\net8.0\OOP.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\OOP\obj\Debug\net8.0\OOP.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\OOP\obj\Debug\net8.0\refint\OOP.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\OOP\obj\Debug\net8.0\OOP.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\OOP\obj\Debug\net8.0\ref\OOP.dll

@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\Hypotenuse\bin\Debug\net8.0\Hypotenuse.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\Hypotenuse\bin\Debug\net8.0\Hypotenuse.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\Hypotenuse\bin\Debug\net8.0\Hypotenuse.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\Hypotenuse\bin\Debug\net8.0\Hypotenuse.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Hypotenuse\bin\Debug\net8.0\Hypotenuse.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\Hypotenuse\obj\Debug\net8.0\Hypotenuse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\Hypotenuse\obj\Debug\net8.0\Hypotenuse.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Hypotenuse\obj\Debug\net8.0\Hypotenuse.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\Hypotenuse\obj\Debug\net8.0\Hypotenuse.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Hypotenuse\obj\Debug\net8.0\Hypotenuse.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Hypotenuse\obj\Debug\net8.0\refint\Hypotenuse.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Hypotenuse\obj\Debug\net8.0\Hypotenuse.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\Hypotenuse\obj\Debug\net8.0\Hypotenuse.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Hypotenuse\obj\Debug\net8.0\ref\Hypotenuse.dll

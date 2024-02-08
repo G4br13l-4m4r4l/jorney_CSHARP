@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\getMathApp\bin\Debug\net8.0\getMathApp.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\getMathApp\bin\Debug\net8.0\getMathApp.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\getMathApp\bin\Debug\net8.0\getMathApp.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\getMathApp\bin\Debug\net8.0\getMathApp.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\getMathApp\bin\Debug\net8.0\getMathApp.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\getMathApp\obj\Debug\net8.0\getMathApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\getMathApp\obj\Debug\net8.0\getMathApp.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\getMathApp\obj\Debug\net8.0\getMathApp.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\getMathApp\obj\Debug\net8.0\getMathApp.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\getMathApp\obj\Debug\net8.0\getMathApp.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\getMathApp\obj\Debug\net8.0\refint\getMathApp.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\getMathApp\obj\Debug\net8.0\getMathApp.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\getMathApp\obj\Debug\net8.0\getMathApp.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\getMathApp\obj\Debug\net8.0\ref\getMathApp.dll

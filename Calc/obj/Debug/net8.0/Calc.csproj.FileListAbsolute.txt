@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc\bin\Debug\net8.0\Calc.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc\bin\Debug\net8.0\Calc.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc\bin\Debug\net8.0\Calc.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc\bin\Debug\net8.0\Calc.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc\bin\Debug\net8.0\Calc.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc\obj\Debug\net8.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc\obj\Debug\net8.0\Calc.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc\obj\Debug\net8.0\Calc.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc\obj\Debug\net8.0\Calc.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc\obj\Debug\net8.0\Calc.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc\obj\Debug\net8.0\refint\Calc.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc\obj\Debug\net8.0\Calc.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc\obj\Debug\net8.0\Calc.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc\obj\Debug\net8.0\ref\Calc.dll

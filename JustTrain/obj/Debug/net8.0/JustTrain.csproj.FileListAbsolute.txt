@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\JustTrain\bin\Debug\net8.0\JustTrain.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\JustTrain\bin\Debug\net8.0\JustTrain.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\JustTrain\bin\Debug\net8.0\JustTrain.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\JustTrain\bin\Debug\net8.0\JustTrain.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\JustTrain\bin\Debug\net8.0\JustTrain.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\JustTrain\obj\Debug\net8.0\JustTrain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\JustTrain\obj\Debug\net8.0\JustTrain.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\JustTrain\obj\Debug\net8.0\JustTrain.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\JustTrain\obj\Debug\net8.0\JustTrain.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\JustTrain\obj\Debug\net8.0\JustTrain.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\JustTrain\obj\Debug\net8.0\refint\JustTrain.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\JustTrain\obj\Debug\net8.0\JustTrain.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\JustTrain\obj\Debug\net8.0\JustTrain.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\JustTrain\obj\Debug\net8.0\ref\JustTrain.dll

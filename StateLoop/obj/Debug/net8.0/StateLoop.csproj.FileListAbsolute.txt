@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\StateLoop\bin\Debug\net8.0\StateLoop.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\StateLoop\bin\Debug\net8.0\StateLoop.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\StateLoop\bin\Debug\net8.0\StateLoop.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\StateLoop\bin\Debug\net8.0\StateLoop.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\StateLoop\bin\Debug\net8.0\StateLoop.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\StateLoop\obj\Debug\net8.0\StateLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\StateLoop\obj\Debug\net8.0\StateLoop.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\StateLoop\obj\Debug\net8.0\StateLoop.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\StateLoop\obj\Debug\net8.0\StateLoop.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\StateLoop\obj\Debug\net8.0\StateLoop.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\StateLoop\obj\Debug\net8.0\refint\StateLoop.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\StateLoop\obj\Debug\net8.0\StateLoop.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\StateLoop\obj\Debug\net8.0\StateLoop.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\StateLoop\obj\Debug\net8.0\ref\StateLoop.dll

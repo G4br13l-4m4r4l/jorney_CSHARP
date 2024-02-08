@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\ListParam\obj\Debug\net8.0\ListParam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\ListParam\obj\Debug\net8.0\ListParam.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\ListParam\obj\Debug\net8.0\ListParam.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\ListParam\obj\Debug\net8.0\ListParam.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\ListParam\bin\Debug\net8.0\ListParam.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\ListParam\bin\Debug\net8.0\ListParam.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\ListParam\bin\Debug\net8.0\ListParam.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\ListParam\bin\Debug\net8.0\ListParam.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\ListParam\bin\Debug\net8.0\ListParam.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\ListParam\obj\Debug\net8.0\ListParam.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\ListParam\obj\Debug\net8.0\refint\ListParam.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\ListParam\obj\Debug\net8.0\ListParam.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\ListParam\obj\Debug\net8.0\ListParam.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\ListParam\obj\Debug\net8.0\ref\ListParam.dll

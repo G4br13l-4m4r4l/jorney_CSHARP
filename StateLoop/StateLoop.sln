@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateLoop", "StateLoop.csproj", "{2DC7F349-C666-45A2-996C-0A8A7C35E6C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DC7F349-C666-45A2-996C-0A8A7C35E6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC7F349-C666-45A2-996C-0A8A7C35E6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC7F349-C666-45A2-996C-0A8A7C35E6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC7F349-C666-45A2-996C-0A8A7C35E6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6852567E-6853-457E-9100-1268D87F68FA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\NestState\obj\Debug\net8.0\NestState.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\NestState\obj\Debug\net8.0\NestState.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\NestState\obj\Debug\net8.0\NestState.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\NestState\obj\Debug\net8.0\NestState.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\NestState\bin\Debug\net8.0\NestState.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\NestState\bin\Debug\net8.0\NestState.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\NestState\bin\Debug\net8.0\NestState.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\NestState\bin\Debug\net8.0\NestState.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\NestState\bin\Debug\net8.0\NestState.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\NestState\obj\Debug\net8.0\NestState.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\NestState\obj\Debug\net8.0\refint\NestState.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\NestState\obj\Debug\net8.0\NestState.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\NestState\obj\Debug\net8.0\NestState.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\NestState\obj\Debug\net8.0\ref\NestState.dll

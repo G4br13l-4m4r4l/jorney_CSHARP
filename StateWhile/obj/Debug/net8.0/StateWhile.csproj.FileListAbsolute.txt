@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\StateWhile\bin\Debug\net8.0\StateWhile.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\StateWhile\bin\Debug\net8.0\StateWhile.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\StateWhile\bin\Debug\net8.0\StateWhile.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\StateWhile\bin\Debug\net8.0\StateWhile.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\StateWhile\bin\Debug\net8.0\StateWhile.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\StateWhile\obj\Debug\net8.0\StateWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\StateWhile\obj\Debug\net8.0\StateWhile.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\StateWhile\obj\Debug\net8.0\StateWhile.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\StateWhile\obj\Debug\net8.0\StateWhile.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\StateWhile\obj\Debug\net8.0\StateWhile.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\StateWhile\obj\Debug\net8.0\refint\StateWhile.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\StateWhile\obj\Debug\net8.0\StateWhile.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\StateWhile\obj\Debug\net8.0\StateWhile.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\StateWhile\obj\Debug\net8.0\ref\StateWhile.dll

@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\enc_new\obj\Debug\net8.0\enc_new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\enc_new\obj\Debug\net8.0\enc_new.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\enc_new\obj\Debug\net8.0\enc_new.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\enc_new\obj\Debug\net8.0\enc_new.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\enc_new\bin\Debug\net8.0\enc_new.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\enc_new\bin\Debug\net8.0\enc_new.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\enc_new\bin\Debug\net8.0\enc_new.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\enc_new\bin\Debug\net8.0\enc_new.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\enc_new\bin\Debug\net8.0\enc_new.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\enc_new\obj\Debug\net8.0\enc_new.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\enc_new\obj\Debug\net8.0\refint\enc_new.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\enc_new\obj\Debug\net8.0\enc_new.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\enc_new\obj\Debug\net8.0\enc_new.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\enc_new\obj\Debug\net8.0\ref\enc_new.dll

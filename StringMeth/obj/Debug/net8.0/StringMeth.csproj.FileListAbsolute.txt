@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\StringMeth\bin\Debug\net8.0\StringMeth.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\StringMeth\bin\Debug\net8.0\StringMeth.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\StringMeth\bin\Debug\net8.0\StringMeth.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\StringMeth\bin\Debug\net8.0\StringMeth.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\StringMeth\bin\Debug\net8.0\StringMeth.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\StringMeth\obj\Debug\net8.0\StringMeth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\StringMeth\obj\Debug\net8.0\StringMeth.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\StringMeth\obj\Debug\net8.0\StringMeth.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\StringMeth\obj\Debug\net8.0\StringMeth.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\StringMeth\obj\Debug\net8.0\StringMeth.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\StringMeth\obj\Debug\net8.0\refint\StringMeth.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\StringMeth\obj\Debug\net8.0\StringMeth.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\StringMeth\obj\Debug\net8.0\StringMeth.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\StringMeth\obj\Debug\net8.0\ref\StringMeth.dll

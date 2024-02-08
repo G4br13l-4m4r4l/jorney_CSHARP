@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\Remebering\obj\Debug\net8.0\Remebering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\Remebering\obj\Debug\net8.0\Remebering.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Remebering\obj\Debug\net8.0\Remebering.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\Remebering\obj\Debug\net8.0\Remebering.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Remebering\bin\Debug\net8.0\Remebering.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\Remebering\bin\Debug\net8.0\Remebering.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\Remebering\bin\Debug\net8.0\Remebering.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\Remebering\bin\Debug\net8.0\Remebering.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Remebering\bin\Debug\net8.0\Remebering.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\Remebering\obj\Debug\net8.0\Remebering.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Remebering\obj\Debug\net8.0\refint\Remebering.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Remebering\obj\Debug\net8.0\Remebering.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\Remebering\obj\Debug\net8.0\Remebering.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Remebering\obj\Debug\net8.0\ref\Remebering.dll
