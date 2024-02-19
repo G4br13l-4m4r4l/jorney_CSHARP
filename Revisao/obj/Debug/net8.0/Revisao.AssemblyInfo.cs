@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("train_enum")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Revisao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2828c1511604a14b2bf53be4d457f3b13f6c67b1")]
-[assembly: System.Reflection.AssemblyProductAttribute("train_enum")]
-[assembly: System.Reflection.AssemblyTitleAttribute("train_enum")]
+[assembly: System.Reflection.AssemblyProductAttribute("Revisao")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Revisao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

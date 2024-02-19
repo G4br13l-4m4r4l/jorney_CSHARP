@@ -1,0 +1,15 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\Threads\bin\Debug\net8.0\Threads.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\Threads\bin\Debug\net8.0\Threads.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\Threads\bin\Debug\net8.0\Threads.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\Threads\bin\Debug\net8.0\Threads.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Threads\bin\Debug\net8.0\Threads.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\Threads\obj\Debug\net8.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\Threads\obj\Debug\net8.0\Threads.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Threads\obj\Debug\net8.0\Threads.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\Threads\obj\Debug\net8.0\Threads.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Threads\obj\Debug\net8.0\Threads.sourcelink.json
+C:\Users\L4g_1n\Documents\C#\first_steps\Threads\obj\Debug\net8.0\Threads.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Threads\obj\Debug\net8.0\refint\Threads.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Threads\obj\Debug\net8.0\Threads.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\Threads\obj\Debug\net8.0\Threads.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Threads\obj\Debug\net8.0\ref\Threads.dll

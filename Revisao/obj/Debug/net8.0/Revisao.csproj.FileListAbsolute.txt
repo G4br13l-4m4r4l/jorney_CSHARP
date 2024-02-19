@@ -1,0 +1,15 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\Revisao\bin\Debug\net8.0\Revisao.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\Revisao\bin\Debug\net8.0\Revisao.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\Revisao\bin\Debug\net8.0\Revisao.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\Revisao\bin\Debug\net8.0\Revisao.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Revisao\bin\Debug\net8.0\Revisao.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\Revisao\obj\Debug\net8.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\Revisao\obj\Debug\net8.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Revisao\obj\Debug\net8.0\Revisao.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\Revisao\obj\Debug\net8.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Revisao\obj\Debug\net8.0\Revisao.sourcelink.json
+C:\Users\L4g_1n\Documents\C#\first_steps\Revisao\obj\Debug\net8.0\Revisao.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Revisao\obj\Debug\net8.0\refint\Revisao.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Revisao\obj\Debug\net8.0\Revisao.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\Revisao\obj\Debug\net8.0\Revisao.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Revisao\obj\Debug\net8.0\ref\Revisao.dll
